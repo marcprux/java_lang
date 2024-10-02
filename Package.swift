@@ -11,7 +11,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/PureSwift/java_swift.git",
+            url: "https://github.com/marcprux/java_swift.git",
             branch: "master"
         ),
     ],
